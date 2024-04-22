@@ -8,7 +8,7 @@ setup(
 
     description=”A simple Python package for adding numbers.”,
 
-    author=”drWali”,
+    author=”tursunwali”,
 
     author_email=”tursun@gnowit.com”,
 
