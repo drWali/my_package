@@ -1,6 +1,6 @@
 from setuptools import setup
 
- setup(
+setup(
 
     name=”my_package”,
 
@@ -10,7 +10,7 @@ from setuptools import setup
 
     author=”drWali”,
 
-    author_email=”your@email.com”,
+    author_email=”tursun@gnowit.com”,
 
     url=”https://github.com/drWali/my_package”,
 
